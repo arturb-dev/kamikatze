@@ -4,11 +4,6 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Collections.Generic;
 
-using System.Configuration;
-using System.Data;
-using System.Linq;
-using System.Threading.Tasks;
-
 namespace Kamikatze
 {
     public class Injection
